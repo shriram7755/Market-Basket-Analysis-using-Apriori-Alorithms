@@ -1,2 +1,2 @@
 # Market-Basket-Analysis-using-Apriori-Alorithms
-Market Basket Analysis (MBA) using the Apriori algorithm is a data mining project designed to uncover hidden patterns and relationships within transactional data from a retail environment.
+Market Basket Analysis (MBA) using the Apriori algorithm is a data mining project designed to uncover hidden patterns and relationships within transactional data from a retail environment.he goal of this project is to analyze customer purchase behaviors, identify associations between products, and generate meaningful insights that can inform marketing strategies, optimize product placement, and enhance the overall customer shopping experience.
